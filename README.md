@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer from India !!</h3>
 
-<img align="right" alt="coding" width="400" src=“https://i.pinimg.com/originals/a7/7c/22/a77c22ba5d5a8814ab96958948329581.jpg” />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav8101&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav8101" /> </p>
 
