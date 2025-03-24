@@ -1,7 +1,7 @@
 ![logo](https://github.com/Vaibhav8101/Vaibhav8101/blob/main/d91196b3dc2628506dfca2e92ccbf22e.jpg)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer from India !!</h3>
+<h3 align="center">A passionate Software Developer from India !!</h3>
 
 
 
@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [Book Exchange Centre](https://github.com/Vaibhav8101/DBMS_PROJECT_2021)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://vaibhav-yadav-portfolio.netlify.app](https://vaibhav-yadav-portfolio.netlify.app)
-
-- 💬 Ask me about **Django, python**
+- 💬 Ask me about **Django, python, ML and AI**
 
 - 📫 How to reach me **Vaibhav.yadav8101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CAjTc7TFuY9-6796lCKimwA3RSZ2vyw9/view?usp=share_link](https://drive.google.com/file/d/1CAjTc7TFuY9-6796lCKimwA3RSZ2vyw9/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1560SZHQZ1_RolHPbNWhuVPx_5PRl6uC9/view?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
